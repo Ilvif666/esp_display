@@ -1,0 +1,1 @@
+move glcdfont.c to adafruit_gfx lib for russian font
